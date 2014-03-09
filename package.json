@@ -1,0 +1,18 @@
+{
+  "name": "dumbapi",
+  "version": "0.0.1",
+  "description": "Express as an API module",
+  "main": "index.js",
+  "dependencies": {
+    "express": "~4.0.0"
+  },
+  "author": {
+    "name": "Kyle VanderBeek",
+    "email": "kylev@kylev.com",
+    "url": "http://github.com/kylev"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "private": true
+}
